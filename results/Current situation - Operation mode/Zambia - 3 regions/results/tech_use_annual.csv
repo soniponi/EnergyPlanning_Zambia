@@ -1,0 +1,10 @@
+,Year,Region,Technology,Carrier,Value
+0,2019,reg1,Coal_PP,Coal,1065404553.0817633
+1,2019,reg1,Diesel_PP,Diesel,1448.3046330445786
+2,2019,reg1,HFO_PP,Oil,1449376.0794097774
+3,2019,reg1,Bio_PP,Biofuel,9733325.546672894
+4,2019,reg1,Elec_distribution,Electricity,10283288290.017906
+5,2019,reg2,Diesel_PP,Diesel,9082.98389947079
+6,2019,reg2,Elec_distribution,Electricity,99437136.0
+7,2019,reg3,Diesel_PP,Diesel,39302.6139777855
+8,2019,reg3,Elec_distribution,Electricity,20089672.974835306

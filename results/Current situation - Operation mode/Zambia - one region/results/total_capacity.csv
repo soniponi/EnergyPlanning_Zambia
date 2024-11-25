@@ -1,0 +1,21 @@
+,Datetime,Region,Technology,Tech category,Value
+0,2019,reg1,Coal_supply,Supply,1e+20
+1,2019,reg1,Diesel_supply,Supply,1e+20
+2,2019,reg1,Oil_supply,Supply,1e+20
+3,2019,reg1,Biofuel_supply,Supply,1e+20
+4,2019,reg1,Hydro_PP_1,Supply,120000.0
+5,2019,reg1,Hydro_PP_2,Supply,24000.0
+6,2019,reg1,Hydro_PP_3,Supply,108000.0
+7,2019,reg1,Hydro_PP_4,Supply,24000.0
+8,2019,reg1,Hydro_PP_5,Supply,990000.0
+9,2019,reg1,Hydro_PP_6,Supply,1080000.0
+10,2019,reg1,Hydro_PP_7,Supply,18000.0
+11,2019,reg1,Hydro_PP_8,Supply,14800.0
+12,2019,reg1,Hydro_PP_9,Supply,27000.0
+13,2019,reg1,Hydro_PP_10,Supply,110000.0
+14,2019,reg1,PV_PP,Supply,88000.0
+15,2019,reg1,Coal_PP,Conversion,300000.0
+16,2019,reg1,Diesel_PP,Conversion,88060.0
+17,2019,reg1,HFO_PP,Conversion,105000.0
+18,2019,reg1,Bio_PP,Conversion,4000.0
+19,2019,reg1,Elec_distribution,Transmission,1e+20
