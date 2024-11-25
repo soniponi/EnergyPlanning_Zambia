@@ -21,6 +21,7 @@ This project models and analyzes the electricity planning for Zambia, focusing o
 - `models/`: Python scripts for modeling scenarios.
 - `results/`: Outputs like charts and energy mix visualizations.
 - `docs/`: Final report and documentation.
+- `resources/`: Some resources used as a reference, in pdf format
 
 ## Other Contributers
 - Paola Latini
