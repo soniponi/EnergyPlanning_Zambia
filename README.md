@@ -25,7 +25,7 @@ This project models and analyzes the electricity planning for Zambia, focusing o
 
 ## Other Contributers
 - Paola Latini
-- Kian Jafarinejad
+- [Kianjn](https://github.com/Kianjn)
 - Virginia Fiameni
 - Andrea Giudici
 
